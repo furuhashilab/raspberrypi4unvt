@@ -1,7 +1,7 @@
 # raspberrypi4unvt
 Raspberry Pi Case for UNVT
 
-![スクリーンショット 2020-02-18 0 42 59](https://user-images.githubusercontent.com/416977/74668067-cacdc680-51e7-11ea-8cba-574434d85b58.jpg)
+![スクリーンショット 2020-02-18 7 46 33](https://user-images.githubusercontent.com/416977/74690710-79dbc380-5223-11ea-9032-6dfe028c593e.jpg)
 
 
 ## Data
@@ -25,7 +25,7 @@ Zipファイル内には下記のSTLファイルが入っています。
 ファイル名： Pi4_B_case_Case_Base_C_WallBase.stl
 
 * 「上カバー」　（40ｍｍファン対応タイプ）
-ファイル名： [Pi4_B_case_Case_Top_40mmFAN.stl](https://github.com/furuhashilab/raspberrypi4unvt/blob/master/Pi4_B_case_Case_Base_A/Pi4_B_case_Case_Top_40mmFAN.stl)
+ファイル名： [Pi4_B_case_Case_Top_40mmFAN4UNVT.stl](https://github.com/furuhashilab/raspberrypi4unvt/blob/master/Pi4_B_case_Case_Base_A4UNVT/Pi4_B_case_Case_Top_40mmFAN4UNVT.stl)
 
 
 * 「上カバー」　（30ｍｍファン対応タイプ）
