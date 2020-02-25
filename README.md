@@ -3,7 +3,7 @@ Raspberry Pi Case for UNVT
 
 ![スクリーンショット 2020-02-18 7 46 33](https://user-images.githubusercontent.com/416977/74690710-79dbc380-5223-11ea-9032-6dfe028c593e.jpg)
 
-![スクリーンショット 2020-02-25 14 32 05](https://user-images.githubusercontent.com/416977/75225184-729d5280-57ed-11ea-9867-034d85ae6e90.jpg)
+![スクリーンショット 2020-02-25 23 47 23](https://user-images.githubusercontent.com/416977/75258518-ecebc800-5829-11ea-91c7-d917d011b9a3.jpg)
 
 ![スクリーンショット 2020-02-20 17 53 06](https://user-images.githubusercontent.com/416977/74916952-165fba80-540a-11ea-9f8c-b957658eb919.jpg)
 
