@@ -16,7 +16,7 @@ https://kitto-yakudatsu.com/page-6817
 Zipファイル内には下記のSTLファイルが入っています。
 
 * Aタイプ底カバー　（耳無しのシンプルタイプ）
-ファイル名：Pi4_B_case_Case_Base_A.stl
+[ファイル名：Pi4_B_case_Case_Base_A4UNVT.stl](https://github.com/furuhashilab/raspberrypi4unvt/blob/master/Pi4_B_case_Case_Base_A4UNVT/Pi4_B_case_Case_Base_A4UNVT.stl)
 
 * Bタイプ底カバー　（ネジ止め用耳付きタイプ）
 ファイル名：Pi4_B_case_Case_Base_B.stl
